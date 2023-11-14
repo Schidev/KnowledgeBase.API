@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Z1aLwB8MYhB6+j3FBIbklQTPy7G6tjyFuSAtAdFBeUbQsVueW1JQO7vuXynVyjfL12mEycN4iT11aEDq/F1T3Q==",
+  "dgSpecHash": "8Ne2m1OSvtfN+OaP75FPLPxDXGxOlsT9jGLAu438U34gT7BcwqnxDJk0NzxP0C2fEyW3rBxViwp+0tqhGMz4xg==",
   "success": true,
   "projectFilePath": "C:\\000000_EVERYTHING\\261130_WEB_API\\KNOWLEDGE_BASE_TESTS\\TEST_05\\KnowledgeBase\\KnowledgeBase.API\\Presentation\\KnowledgeBase.API.WebAPI\\KnowledgeBase.API.WebAPI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Q\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Q\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Q\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Q\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Q\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Q\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
